@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    font-family: Arial;
+}
+
+body {
+    background-color: rgb(91, 233, 185);
+}
+
+nav {
+    display: flex;
+    background-color: rgb(234, 232, 236);
+    padding: 25px;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    margin-right: 15px;
+    list-style: none;
+}
